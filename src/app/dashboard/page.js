@@ -61,7 +61,7 @@ export default function DashboardPage() {
           <div className="border p-4 border-gray-300 rounded-lg">
             <h1 className="text-[#14B8A6] font-semibold text-lg sm:text-[19px]">₦200,000,000.00</h1>
             <div className="flex gap-1 items-center mt-2 text-xs">
-              <p className="font-medium">Commission Rev</p>
+              <p className="font-medium">Commission</p>
                <Image src="/downred.jpg" alt="Up arrow" width={14} height={14} />
               <p className="font-normal">2.5%</p>
             </div>
