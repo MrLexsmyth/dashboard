@@ -17,7 +17,8 @@ const Admin = () => {
   ];
 
   return (
-    <div className="w-full h-[67px] border-b border-gray-100 flex items-center px-6 justify-between">
+   <div className="w-full h-[67px] border-b border-gray-100 flex items-center px-6 justify-between sticky top-0 z-50 bg-white">
+
 
     
       <div className="hidden md:flex w-full justify-around items-center p-6">
