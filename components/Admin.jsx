@@ -25,7 +25,8 @@ const Admin = () => {
           <Link
             key={index}
             href={link.href}
-            className="flex items-center justify-center gap-2 w-[170px] h-[38px] opacity-100 hover:bg-[#F5F5F5] rounded"
+           className="flex items-center justify-center gap-2 w-[170px] h-[38px] opacity-100 hover:bg-[#F5F5F5] hover:font-semibold transition-all duration-300 ease-in-out rounded"
+
           >
             <Image
               src={link.image}
