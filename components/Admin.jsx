@@ -94,7 +94,7 @@ const Admin = () => {
           <div className="relative mt-4">
             <input
               type="text"
-              placeholder="Search..."
+              placeholder="Search listings, user here..."
               className="w-full h-[40px] pl-10 pr-4 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
             <img
